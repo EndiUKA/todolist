@@ -1,2 +1,2 @@
-# MVVM To-Do List App with Flow and Architecture Components
+Aplikacion TO-DO-LIST me databaze (CRUD)
 
